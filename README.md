@@ -21,4 +21,4 @@ I'm a 22-year-old Master of Computer Applications (MCA) student currently studyi
 - 📈 Continuously learning and expanding my knowledge of the latest web technologies
 
 ## Fun Fact
-When I'm not coding, you can find me playing cricket, exploring new music, or diving into a good book!
+When I'm not coding, you can find me playing cricket or exploring new music
