@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Kirithik Saran]
+# Hi there 👋, I'm Kirithik Saran
 
 ## About Me
 I'm a 22-year-old Master of Computer Applications (MCA) student currently studying at Dr. Mahalingam College of Engineering and Technology (Dr. MCET) in Pollachi. With a strong passion for web development, I am actively seeking an internship opportunity in this field. My academic background and technical skills have provided me with a solid foundation in both front-end and back-end development, and I am eager to apply my knowledge to real-world projects. I am driven by a desire to contribute to innovative solutions and continuously improve my abilities in a professional setting.
