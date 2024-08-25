@@ -5,7 +5,7 @@ I'm a 22-year-old Master of Computer Applications (MCA) student currently studyi
 
 ## Skills
 - 💻 **Languages:** Java, PHP, JavaScript, HTML, CSS
-- 🛠️ **Tools & Technologies:** Git, Docker, MySQL, MongoDB, Tableau
+- 🛠️ **Tools & Technologies:** Git, MySQL, MongoDB, Tableau
 - 📚 **Learning:** Full Stack Web Development, Cloud Computing
 
 
